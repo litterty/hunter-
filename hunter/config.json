@@ -1,0 +1,6 @@
+{
+    "api_key": "",
+    "page":1,
+    "page_size":10,
+    "//":"api_key为自己的key，page为请求的页数，page_size为每页的条数，可自行更改"
+}
