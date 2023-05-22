@@ -18,7 +18,7 @@ type MyConfig struct {
 
 func Read() (string, int, int) {
 	//读取配置文件
-	file, err := os.Open("B:\\代码\\go_hunter2\\hunter\\config.json")
+	file, err := os.Open(".\\config.json")
 	if err != nil {
 		// 处理错误
 	}
